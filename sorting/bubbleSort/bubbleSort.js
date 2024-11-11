@@ -1,5 +1,4 @@
 /**
- * 
  * @param {number[]} arr 
  * @param {boolean} reversed 
  * @returns {number[]}  
